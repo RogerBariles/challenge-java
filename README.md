@@ -4,8 +4,8 @@ auth: Bariles Roger
 
 ## VERSIONES:
 
-_**Java**: 1.8_
-_**Apache Maven**: 3.6.3_
+* _**Java**: 1.8_
+* _**Apache Maven**: 3.6.3_
 
 URL : [api-challenge-java](http://www.dropwizard.io/1.0.2/docs/)
 
